@@ -5,9 +5,9 @@ int main()
     scanf("%d",&c);
     if(c>20)
     {
-       printf("HOT");
+        printf("HOT");
     }
-     else
+    else
     {
         printf("COLD");
     }
